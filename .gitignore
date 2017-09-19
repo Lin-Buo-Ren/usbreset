@@ -1,0 +1,8 @@
+# Git Version Tracking Ignore Rules
+# Documentation: gitignore(5) manpage
+## Ignore Built Products
+### Executables
+usbreset
+*.exe
+*.executable
+
